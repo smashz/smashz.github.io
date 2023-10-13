@@ -84652,7 +84652,7 @@ F(a){var s=null
 return A.eB(A.fT(s,A.b3("Forgot Password",s,s,s,s,s,s)),s,new A.Il(s),s)}}
 A.Ih.prototype={
 F(a){var s=null
-return A.lv(!0,A.eB(s,s,A.lv(!0,A.nE(A.dP(s,A.bR(A.a([A.ar(s,0.03694581280788178*$.bF.L(),s),new A.JY(s),A.ar(s,0.012315270935960592*$.bF.L(),s),new A.IF(s),A.ar(s,0.09333333333333334*$.ao.L(),s),new A.Ng(s),A.ar(s,0.25333333333333335*$.ao.L(),s)],t.p),B.p,B.x,B.o),B.v,B.H,s,s,s,s,s,s,s,s,s),s,B.ai),!0),s),!0)}}
+return A.lv(!0,A.eB(s,s,A.lv(!0,A.nE(A.dP(s,A.bR(A.a([A.ar(s,0.03694581280788178*$.bF.L(),s),new A.JY(s),A.ar(s,0.012315270935960592*$.bF.L(),s),new A.IF(s),A.ar(s,0.02666666666666667*$.ao.L(),s),new A.Ng(s),A.ar(s,0.30666666666666664*$.ao.L(),s)],t.p),B.p,B.x,B.o),B.v,B.H,s,s,s,s,s,s,s,s,s),s,B.ai),!0),s),!0)}}
 A.IF.prototype={
 F(a){var s,r,q=t.N,p=t.z,o=A.a([A.aG(["icon","assets/icons/deb.svg","text","DEB Mods","press","DebScreen"],q,p),A.aG(["icon","assets/icons/ipa.svg","text","IPA Mods"],q,p),A.aG(["icon","assets/icons/jit.svg","text","JIT  Mods"],q,p)],t.H7)
 p=0.08*$.ao.L()
