@@ -84354,7 +84354,7 @@ $1(a){return new A.uv(null)},
 $S:497}
 A.rJ.prototype={
 F(a){var s,r,q,p,o,n=null,m=0.0026666666666666666*$.ao.L(),l=this.c.a
-m=A.ar(new A.mp(50,A.dP(n,A.asG(A.e3(5),A.Ld(l.w[0],n,n)),B.v,n,n,n,n,n,n,new A.a8(m,m,m,m),n,n,n),n),50,65)
+m=A.ar(new A.mp(50,A.dP(n,A.asG(A.e3(15),A.Ld(l.w[0],n,n)),B.v,n,n,n,n,n,n,new A.a8(m,m,m,m),n,n,n),n),50,65)
 s=A.ar(n,n,20)
 r=A.b3(l.b,4,n,n,A.bi(n,n,B.l,n,n,n,n,n,n,n,n,16,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n)
 q=A.ar(n,2,n)
@@ -84652,7 +84652,7 @@ F(a){var s=null
 return A.eB(A.fT(s,A.b3("Forgot Password",s,s,s,s,s,s)),s,new A.Il(s),s)}}
 A.Ih.prototype={
 F(a){var s=null
-return A.lv(!0,A.eB(s,s,A.lv(!0,A.nE(A.dP(s,A.bR(A.a([A.ar(s,0.03694581280788178*$.bF.L(),s),new A.JY(s),A.ar(s,0.012315270935960592*$.bF.L(),s),new A.IF(s),A.ar(s,0.12*$.ao.L(),s),new A.Ng(s),A.ar(s,0.25333333333333335*$.ao.L(),s)],t.p),B.p,B.x,B.o),B.v,B.H,s,s,s,s,s,s,s,s,s),s,B.ai),!0),s),!0)}}
+return A.lv(!0,A.eB(s,s,A.lv(!0,A.nE(A.dP(s,A.bR(A.a([A.ar(s,0.03694581280788178*$.bF.L(),s),new A.JY(s),A.ar(s,0.012315270935960592*$.bF.L(),s),new A.IF(s),A.ar(s,0.09333333333333334*$.ao.L(),s),new A.Ng(s),A.ar(s,0.25333333333333335*$.ao.L(),s)],t.p),B.p,B.x,B.o),B.v,B.H,s,s,s,s,s,s,s,s,s),s,B.ai),!0),s),!0)}}
 A.IF.prototype={
 F(a){var s,r,q=t.N,p=t.z,o=A.a([A.aG(["icon","assets/icons/deb.svg","text","DEB Mods","press","DebScreen"],q,p),A.aG(["icon","assets/icons/ipa.svg","text","IPA Mods"],q,p),A.aG(["icon","assets/icons/jit.svg","text","JIT  Mods"],q,p)],t.H7)
 p=0.08*$.ao.L()
@@ -84666,8 +84666,8 @@ else if(q[p].h(0,r)==="IPA Mods")A.dU(s.c).eQ("/ipa",null,t.X)
 else if(q[p].h(0,r)==="JIT  Mods")A.dU(s.c).eQ("/jit",null,t.X)},
 $S:0}
 A.IG.prototype={
-F(a){var s=null,r=$.ao.L(),q=0.04*$.ao.L(),p=$.ao.L(),o=$.ao.L(),n=A.O(200,74,50,152),m=A.e3(10)
-return A.dS(s,A.ar(A.bR(A.a([A.dP(s,A.lD(this.c,s,s,s),B.v,s,s,new A.c4(n,s,s,m,s,s,B.aa),s,0.14666666666666667*p,s,new A.a8(q,q,q,q),s,s,0.14666666666666667*o),A.ar(s,5,s),A.b3(this.d,s,s,s,A.bi(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.aN,s)],t.p),B.p,B.x,B.o),s,0.14666666666666667*r),B.I,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,this.e,s,s,s)}}
+F(a){var s=null,r=$.ao.L(),q=0.04*$.ao.L(),p=$.ao.L(),o=$.ao.L(),n=A.e3(10)
+return A.dS(s,A.ar(A.bR(A.a([A.dP(s,A.lD(this.c,s,s,s),B.v,s,s,new A.c4(new A.B(4283052696),s,s,n,s,s,B.aa),s,0.14666666666666667*p,s,new A.a8(q,q,q,q),s,s,0.14666666666666667*o),A.ar(s,5,s),A.b3(this.d,s,s,s,A.bi(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.aN,s)],t.p),B.p,B.x,B.o),s,0.14666666666666667*r),B.I,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,this.e,s,s,s)}}
 A.JY.prototype={
 F(a){var s=null,r=0.05333333333333334*$.ao.L(),q=0.05333333333333334*$.ao.L(),p=0.04*$.ao.L(),o=A.e3(20),n=A.bi(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)
 return A.dP(s,A.af9(A.c1(A.a([A.c1(s,s,"Welcome to\n"),A.c1(s,A.bi(s,s,s,s,s,s,s,s,s,s,s,0.064*$.ao.L(),s,s,B.c4,s,s,!0,s,s,s,s,s,s,s,s),"Git Store"),A.c1(s,s,"                                                    A Repository For Open-Sorced iOS Mods\n")],t.VO),n,s),s,s),B.v,s,s,new A.c4(new A.B(4283052696),s,s,o,s,s,B.aa),s,110,new A.a8(r,r,r,r),new A.a8(q,p,q,p),s,s,1/0)}}
